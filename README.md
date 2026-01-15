@@ -1,8 +1,8 @@
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 -
-Data: 14/01/2026
-Empresa: Abstergo Industries
-Responsável: João Vitor Barbosa Silveira Carvalho
+Data: 14/01/2026  
+Empresa: Abstergo Industries  
+Responsável: João Vitor Barbosa Silveira Carvalho  
 
 Introdução
 -
